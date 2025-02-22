@@ -45,16 +45,19 @@ The visualizations reveal several stories and insights about the dataset:
 
 
 The scatter plot exploring the relationship between wine price and quality (points) shows a general trend where higher-priced wines tend to score higher ratings. However, the relationship is not perfectly linear, as some lower-priced wines achieve high scores, suggesting that price is not the sole determinant of quality. This could point to the presence of high-value wines in affordable ranges.
+
 2.	#### Most Reviewed or Rated Varieties (Bar Chart)
 ![Wine bar plot 2](https://github.com/user-attachments/assets/7f91e140-9f6f-4759-9b5c-91add09b5fbe)
 
 
 The bar chart displaying the most reviewed wine varieties highlights consumer preferences. Varieties like Pinot Noir and Chardonnary dominate the dataset, reflecting their popularity or accessibility in the market. This could indicate consumer bias toward certain types of wine or an industry focus on these varieties.
+
 3.	#### Countries Producing the Most Expensive Wines (Bar Chart)
 ![Bar plot 3](https://github.com/user-attachments/assets/ef774afa-f7a4-4ba2-9d80-af6c2346d779)
 
 
 The bar chart comparing wine prices by country identifies regions with a reputation for premium wines. Countries such as New Zealand and Italy consistently produce higher-priced wines, suggesting they are known for luxury or exclusive wine markets. Conversely, countries with lower average wine prices might cater to more budget-friendly markets.
+
 4.	#### Distribution of Quality Ratings (Histogram)
 ![4th pic](https://github.com/user-attachments/assets/4db8978b-f9f1-4331-80de-f77e71ecead2)
 
